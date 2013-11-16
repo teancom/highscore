@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# We *must* use the latest and greatest ruby. Nothing but the best for us!
+ruby '2.0.0'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
