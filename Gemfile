@@ -49,3 +49,7 @@ end
 
 gem 'newrelic_rpm'
 gem 'airbrake'
+
+group :production do
+    gem 'rails_12factor'
+end
